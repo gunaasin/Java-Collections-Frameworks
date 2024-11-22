@@ -25,6 +25,7 @@ public class Main {
         all.add(30);
         all.add(40);
 //        al.addAll(all);
+//        al.retainAll(all); remove all the common data
 //        System.out.print(al); // copy the all data and paste the al list tail
 
 //        al.add(5,all);
