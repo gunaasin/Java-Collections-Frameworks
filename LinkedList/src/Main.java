@@ -44,6 +44,7 @@ public class Main {
 // DeQueue model add first && add last
         ll.addFirst(233);
         ll.addLast(344);
+        ll.add(null);
 //        System.out.println(ll.getFirst());
 //        System.out.println(ll.getLast());
 //        System.out.println(ll);
